@@ -12,7 +12,7 @@ public class movement : NetworkBehaviour
     private GameObject enemy;
     void Start()
     {
-        
+        Debug.Log("asd");
     }
 
     // Update is called once per frame
