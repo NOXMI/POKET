@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9a028044bef47f74aa92d8915f5328c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skillCardTexture: {fileID: 21300000, guid: ae557a6aec5c67c4d96956f2455e70ab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
